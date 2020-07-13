@@ -1,0 +1,1 @@
+This is Mim's first git project!
